@@ -1,4 +1,4 @@
-# 🎓 Student Depression Analytics using SQL & Tableau
+# Student Depression Analytics using SQL & Tableau
 
 > An end-to-end data analytics project exploring the relationship between academic, financial, lifestyle, and psychological factors associated with student depression. This project demonstrates SQL-based data analysis and interactive Tableau dashboards to generate actionable insights that support evidence-based decision-making.
 

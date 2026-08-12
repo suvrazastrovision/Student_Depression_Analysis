@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Student depression is a growing global concern influenced by academic, financial, social, and lifestyle factors. This project performs exploratory data analysis using SQL and visualizes key findings through Tableau dashboards to identify meaningful trends associated with student mental health.
 
@@ -12,7 +12,7 @@ The project demonstrates an end-to-end analytics workflow, from raw data explora
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Clean and prepare raw data using SQL.
 - Perform exploratory data analysis (EDA).
@@ -22,7 +22,7 @@ The project demonstrates an end-to-end analytics workflow, from raw data explora
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -33,7 +33,7 @@ The project demonstrates an end-to-end analytics workflow, from raw data explora
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Student_Depression_Analytics/
@@ -67,7 +67,7 @@ Student_Depression_Analytics/
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
                    Student Depression Dataset
@@ -93,20 +93,20 @@ Student_Depression_Analytics/
 
 ---
 
-# 📊 Dashboard Overview
+# Dashboard Overview
 
 The Tableau dashboard provides interactive visualizations to explore relationships between student depression and:
 
-- 📚 Academic Pressure
-- 💰 Financial Stress
-- 😊 Study Satisfaction
-- 😴 Sleep Duration
-- ⏰ Study Hours
-- 👥 Student Count Distribution
+- Academic Pressure
+- Financial Stress
+- Study Satisfaction
+- Sleep Duration
+- Study Hours
+- Student Count Distribution
 
 ---
 
-# 💼 Business Questions
+# Business Questions
 
 This project investigates the following questions:
 
@@ -119,7 +119,7 @@ This project investigates the following questions:
 
 ---
 
-# 📈 Key Insights
+# Key Insights
 
 - Moderate academic pressure represents the largest student group, indicating that academic demands are a common experience among students.
 - Financial stress is observed across all categories, suggesting that economic challenges affect a broad range of students.
@@ -129,7 +129,7 @@ This project investigates the following questions:
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 ### Executive Dashboard
 
@@ -158,7 +158,7 @@ This project investigates the following questions:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - SQL
 - Data Cleaning
@@ -174,7 +174,7 @@ This project investigates the following questions:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Develop predictive machine learning models for depression risk assessment.
 - Integrate Python for automated data preprocessing and statistical analysis.
@@ -183,8 +183,3 @@ This project investigates the following questions:
 
 ---
 
-# 👤 Author
-
-**Suvra Nath**
-
----

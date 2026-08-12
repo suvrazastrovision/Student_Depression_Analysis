@@ -188,5 +188,3 @@ This project investigates the following questions:
 **Suvra Nath**
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star :) 

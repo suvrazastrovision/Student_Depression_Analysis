@@ -155,16 +155,6 @@ This project investigates the following questions:
 
 ![Study Hours](dashboard/study_hours.png)
 
----
-
-# 📄 Documentation
-
-The **docs/** folder contains additional project documentation.
-
-| Document | Description |
-|----------|-------------|
-| Student_Depression_Report.pdf | Complete project report including objectives, methodology, analysis, insights, and conclusion. |
-| Dashboard_Insights.pdf | Summary of dashboard findings and business insights. |
 
 ---
 
